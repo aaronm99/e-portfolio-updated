@@ -1,3 +1,9 @@
+# e-portfolio-updated
+
+## What is it?
 Personal portfolio website. Displays projects created and some information about them.
 
-Created using HTMl, CSS, Javascript.
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
